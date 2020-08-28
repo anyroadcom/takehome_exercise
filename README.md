@@ -11,8 +11,14 @@ This exercise should only take around an hour, so please don't feel pressure to 
 - Underneath the list, add a white button that says "Shuffle".
 - Clicking the shuffle button should randomize the order of the colored buttons.
 
-Here's a screenshot with how the list of buttons should look, with the specs for the CSS rules added.
+#### Here's the list of styling rules for the buttons, and a GIF of about how the final result should look.
 
-![Exercise spec](spec.png)
+- Margin between buttons: 10px
+- Button border radius: 5px
+- Button height: 40px
+- Button width: 120px
+- Shuffle button border color: #333
+- Shuffle button text color: #333
+
 
 ![Screencast](takehome_screencast.gif)
